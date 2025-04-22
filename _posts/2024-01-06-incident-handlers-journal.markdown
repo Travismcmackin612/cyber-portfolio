@@ -5,7 +5,7 @@ title: Incident Handlers Journal
 img: handlersjournal.png
 alt: image-alt
 
-# Add the link to your journal below
+
 project-url:https://docs.google.com/document/d/1rvf1yyS4QhtUJl1pGSduujWk702AYIKphytcsbe7qHQ/edit?usp=sharing
 
  
